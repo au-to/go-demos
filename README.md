@@ -1,2 +1,2 @@
 # go-demos
-go语言学习笔记
+Learning notes for Go.
